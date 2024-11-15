@@ -58,5 +58,4 @@ Planning a trip can be a daunting task with various details to manage, such as a
 - **Page Not Found**: Check the URL and ensure the Flask routes are defined correctly in `app.py`.
 
 
-## Contact 📬
-- **Author**: [Roshan Rateria](https://github.com/roshanrateria)
+
